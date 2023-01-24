@@ -1,15 +1,8 @@
-<b>FULL STACK DEVELOPER MERN</b>
-- <b>REACT</b>
-- <b>NODE</b>
-- <b>EXPRESS</b>
-- <b>MongoDB</b>
-- <b>Bootstrap</b>
-- <b>HTML</b>
-- <b>JavaScript</b>
-- <b>CSS</b>
-- <b>SASS</b>
+   <b>FULL STACK DEVELOPER MERN</b>
+   <br><br>
+&#x30FB;<b>REACT</b>&#x30FB;<b>NODE</b>&#x30FB;<b>EXPRESS</b>&#x30FB;<b>MongoDB</b>&#x30FB;<b>Bootstrap</b>&#x30FB;<b>HTML</b>&#x30FB;<b>JavaScript</b>&#x30FB;<b>CSS</b>&#x30FB;<b>SASS</b>&#x30FB;
 
-and ...DiveMaster :-)
+   and ...DiveMaster :-)
 
 <!--
 **kmilek73/kmilek73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
