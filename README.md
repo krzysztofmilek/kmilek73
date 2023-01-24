@@ -12,8 +12,8 @@
 <b>MONGODB</b>&#x30FB;<b>EXPRESS</b>&#x30FB;<b>REACT</b>&#x30FB;<b>NODJS</b>&#x30FB;<b>HTML5</b>&#x30FB;<b>CSS3</b>&#x30FB;<b>JAVASCRIPT</b>
 
 W swoich projektach używam również:<br>
-<b>Bootstrap</b>&#x30FB;<b>NPM</b>&#x30FB;<b>SASS</b>&#x30FB;<b>wordpress</b>
+<b>Bootstrap</b>&#x30FB;<b>NPM</b>&#x30FB;<b>SASS</b>&#x30FB;<b>Wordpress</b>
 
-   and ...DiveMaster :-)
+   and i'm ...DiveMaster :-)
 
 
