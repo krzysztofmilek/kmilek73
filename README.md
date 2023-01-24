@@ -12,7 +12,7 @@
 <b>MONGODB</b>&#x30FB;<b>EXPRESS</b>&#x30FB;<b>REACT</b>&#x30FB;<b>NODJS</b>&#x30FB;<b>HTML5</b>&#x30FB;<b>CSS3</b>&#x30FB;<b>JAVASCRIPT</b>
 
 W swoich projektach używam również:<br>
-<b>Bootstrap</b>&#x30FB;<b>NPM</b>&#x30FB;<b>SASS</b>&#x30FB;<b>Wordpress</b>
+REST-API>&#x30FB;<b>Bootstrap</b>&#x30FB;<b>NPM</b>&#x30FB;<b>SASS</b>&#x30FB;<b>Wordpress</b>
 
    and i'm ...DiveMaster :-) <img src="https://user-images.githubusercontent.com/119612386/214439373-a628d76f-aa81-4bed-abf1-8af4a3ea4680.png" width="30px" height="30px">
 
