@@ -1,7 +1,7 @@
    <b>FULL STACK DEVELOPER MERN</b>
    <br><br>
  <img src="https://user-images.githubusercontent.com/119612386/214432407-7c15538d-689b-4e18-8229-d667cda5fc60.png" width="55px" height="55px">
-<img src="https://user-images.githubusercontent.com/119612386/214444278-b6101768-bdd9-466f-8355-c8a0515fc410.png" width="50px" height="50px">
+<img src="https://user-images.githubusercontent.com/119612386/214446204-53673a87-e145-4967-b5bb-dc7d6926ea73.png" width="50px" height="50px">
 <img src="https://img.icons8.com/office/100/null/react.png" width="50px" height="50px" alt="REACT">
 <img src="https://user-images.githubusercontent.com/119612386/214430885-e2f2cabd-c578-4999-ab9f-2e50db1d2d82.png" width="50px" height="50px">
 <img src="https://user-images.githubusercontent.com/119612386/214434464-b6d565b5-e364-4a3b-abc0-889260b90648.png" width="50px" height="50px">
