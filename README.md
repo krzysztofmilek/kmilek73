@@ -34,9 +34,10 @@
 </h6>
 </p>
 <h3>GITHUB STATISTIC</h3>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=kmilek73&layout=compact&theme=dark"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=kmilek73&show_icons=true&theme=dark"/>
+<img src="https://github-readme-stats.vercel.app/api?username=kmilek73&show_icons=true&theme=dark" width="396px" higth="80px"/> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kmilek73&layout=compact&theme=dark" higth="60px"/>
+
+
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kmilek73&theme=dark"/>
 
