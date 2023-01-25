@@ -11,7 +11,7 @@
 <img src="https://user-images.githubusercontent.com/119612386/214437242-4236cfcc-5d96-4d84-a34a-0e0507ddc8fb.png"  width="50px" height="50px">
 </p>
 
-<h6><b>MONGODB</b>&#x30FB;<b>EXPRESS</b>&#x30FB;<b>REACT</b>&#x30FB;<b>NODJS</b>&#x30FB;<b>HTML5</b>&#x30FB;<b>CSS3</b>&#x30FB;<b>JAVASCRIPT</b></h6>
+<h6>MONGODB&#x30FB;EXPRESS&#x30FB;REACT&#x30FB;NODJS&#x30FB;HTML5&#x30FB;CSS3&#x30FB;JAVASCRIPT</h6>
 
 <h3>IN MY PROJECT I ALSO USE:</h3>
 <p><img src="https://img.icons8.com/color/48/null/bootstrap.png"/>
