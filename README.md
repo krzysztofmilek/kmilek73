@@ -18,17 +18,20 @@
 <img src="https://img.icons8.com/color/48/null/sass.png" />
 <img src="https://img.icons8.com/color/48/null/wordpress.png" />
 <img src="https://img.icons8.com/ultraviolet/40/null/api-settings.png"/>
+ 
 <br>
    <h6>Bootstrap&#x30FB;NPM&#x30FB;SASS&#x30FB;Wordpress&#x30FB;REST-API</h6>
 </p>
-<b>AND .. IN FREE TIME</b>
+<h3>AND .. IN FREE TIME</h3>
 <h6>I am a father, husband and ...Diver :-) <img src="https://user-images.githubusercontent.com/119612386/214439373-a628d76f-aa81-4bed-abf1-8af4a3ea4680.png" width="30px" height="30px"><img src="https://img.icons8.com/flat-round/64/null/ok-hand.png" width="30px" height="30px"/>
 </h6>
+
+<h3>GITHUB STATISTIC</h3>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kmilek73&layout=compact&theme=dark"/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=kmilek73&show_icons=true&theme=dark"/>
 
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kmilek73&theme=dark"/>
 
 
 
