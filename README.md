@@ -13,10 +13,13 @@
 <b>MONGODB</b>&#x30FB;<b>EXPRESS</b>&#x30FB;<b>REACT</b>&#x30FB;<b>NODJS</b>&#x30FB;<b>HTML5</b>&#x30FB;<b>CSS3</b>&#x30FB;<b>JAVASCRIPT</b></p>
 
 <b>IN MY PROJECT I ALSO USE:</b>
-<br>Bootstrap&#x30FB;NPM&#x30FB;SASS&#x30FB;WordpressI&#x30FB;REST-API
+<br>Bootstrap&#x30FB;NPM&#x30FB;SASS&#x30FB;Wordpress&#x30FB;REST-API
 
 <b>AND .. IN FREE TIME</b><br>
 I'm ...Diver :-) <img src="https://user-images.githubusercontent.com/119612386/214439373-a628d76f-aa81-4bed-abf1-8af4a3ea4680.png" width="30px" height="30px">
+
+
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kmilek73)](https://github.com/kmilek73/github-readme-stats)
 
 
 
