@@ -18,8 +18,11 @@
 <b>AND .. IN FREE TIME</b><br>
 I'm ...Diver :-) <img src="https://user-images.githubusercontent.com/119612386/214439373-a628d76f-aa81-4bed-abf1-8af4a3ea4680.png" width="30px" height="30px">
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=kmilek73&layout=compact&theme=dark"/>
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kmilek73)](https://github.com/kmilek73/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=kmilek73&show_icons=true&theme=dark"/>
+
+
 
 
 
