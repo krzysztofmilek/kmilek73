@@ -8,9 +8,9 @@
 <img src="https://user-images.githubusercontent.com/119612386/214434464-b6d565b5-e364-4a3b-abc0-889260b90648.png" width="50px" height="50px">
 <img src="https://user-images.githubusercontent.com/119612386/214434991-98ed5528-a192-4df6-a144-ee623d0c6822.png"  width="50px" height="50px">
 <img src="https://user-images.githubusercontent.com/119612386/214437242-4236cfcc-5d96-4d84-a34a-0e0507ddc8fb.png"  width="50px" height="50px">
+</p>
 
-
-<b>MONGODB</b>&#x30FB;<b>EXPRESS</b>&#x30FB;<b>REACT</b>&#x30FB;<b>NODJS</b>&#x30FB;<b>HTML5</b>&#x30FB;<b>CSS3</b>&#x30FB;<b>JAVASCRIPT</b></p>
+<h6><b>MONGODB</b>&#x30FB;<b>EXPRESS</b>&#x30FB;<b>REACT</b>&#x30FB;<b>NODJS</b>&#x30FB;<b>HTML5</b>&#x30FB;<b>CSS3</b>&#x30FB;<b>JAVASCRIPT</b></h6>
 
 <h3>IN MY PROJECT I ALSO USE:</h3>
 <p><img src="https://img.icons8.com/color/48/null/bootstrap.png"/>
@@ -18,11 +18,12 @@
 <img src="https://img.icons8.com/color/48/null/sass.png" />
 <img src="https://img.icons8.com/color/48/null/wordpress.png" />
 <img src="https://img.icons8.com/ultraviolet/40/null/api-settings.png"/>
-<br>Bootstrap&#x30FB;NPM&#x30FB;SASS&#x30FB;Wordpress&#x30FB;REST-API
+<br>
+   <h6>Bootstrap&#x30FB;NPM&#x30FB;SASS&#x30FB;Wordpress&#x30FB;REST-API</h6>
 </p>
-<b>AND .. IN FREE TIME</b><br>
-<p>I'm ...Diver :-) <img src="https://user-images.githubusercontent.com/119612386/214439373-a628d76f-aa81-4bed-abf1-8af4a3ea4680.png" width="30px" height="30px">
-</p>
+<b>AND .. IN FREE TIME</b>
+<h6>I am a father, husband and ...Diver :-) <img src="https://user-images.githubusercontent.com/119612386/214439373-a628d76f-aa81-4bed-abf1-8af4a3ea4680.png" width="30px" height="30px"><img src="https://img.icons8.com/flat-round/64/null/ok-hand.png" width="30px" height="30px"/>
+</h6>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kmilek73&layout=compact&theme=dark"/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=kmilek73&show_icons=true&theme=dark"/>
