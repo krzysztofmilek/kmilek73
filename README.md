@@ -1,5 +1,6 @@
-   <b>FULL STACK DEVELOPER MERN</b>
-   <br><br>
+   <h1>FULL STACK DEVELOPER MERN</h1>
+  
+   <p>
  <img src="https://user-images.githubusercontent.com/119612386/214432407-7c15538d-689b-4e18-8229-d667cda5fc60.png" width="55px" height="55px">
  <img src="https://user-images.githubusercontent.com/119612386/214446204-53673a87-e145-4967-b5bb-dc7d6926ea73.png" width="50px" height="50px">
 <img src="https://img.icons8.com/office/100/null/react.png" width="50px" height="50px" alt="REACT">
@@ -9,12 +10,13 @@
 <img src="https://user-images.githubusercontent.com/119612386/214437242-4236cfcc-5d96-4d84-a34a-0e0507ddc8fb.png"  width="50px" height="50px">
 
 
-<b>MONGODB</b>&#x30FB;<b>EXPRESS</b>&#x30FB;<b>REACT</b>&#x30FB;<b>NODJS</b>&#x30FB;<b>HTML5</b>&#x30FB;<b>CSS3</b>&#x30FB;<b>JAVASCRIPT</b>
+<b>MONGODB</b>&#x30FB;<b>EXPRESS</b>&#x30FB;<b>REACT</b>&#x30FB;<b>NODJS</b>&#x30FB;<b>HTML5</b>&#x30FB;<b>CSS3</b>&#x30FB;<b>JAVASCRIPT</b></p>
 
-In my projects I also use:<br>
-<b>REST-API&#x30FB;Bootstrap&#x30FB;NPM&#x30FB;SASS&#x30FB;Wordpress</b>
+<b>IN MY PROJECT I ALSO USE:</b>
+<br>Bootstrap&#x30FB;NPM&#x30FB;SASS&#x30FB;WordpressI&#x30FB;REST-API
 
-and I'm ...Diver :-) <img src="https://user-images.githubusercontent.com/119612386/214439373-a628d76f-aa81-4bed-abf1-8af4a3ea4680.png" width="30px" height="30px">
+<b>AND .. IN FREE TIME</b><br>
+I'm ...Diver :-) <img src="https://user-images.githubusercontent.com/119612386/214439373-a628d76f-aa81-4bed-abf1-8af4a3ea4680.png" width="30px" height="30px">
 
 
 
