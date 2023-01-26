@@ -14,11 +14,11 @@
 <h6>MONGODB&#x30FB;EXPRESS&#x30FB;REACT&#x30FB;NODJS&#x30FB;HTML5&#x30FB;CSS3&#x30FB;JAVASCRIPT</h6>
 
 <h3>IN MY PROJECT I ALSO USE:</h3>
-<p><img src="https://img.icons8.com/color/48/null/bootstrap.png"/>
-<img src="https://img.icons8.com/color/48/null/npm.png" />
-<img src="https://img.icons8.com/color/48/null/sass.png" />
-<img src="https://img.icons8.com/color/16/null/wordpress.png" />
-<img src="https://img.icons8.com/ultraviolet/40/null/api-settings.png"/>
+<p><img src="https://img.icons8.com/color/30/null/bootstrap.png"/>
+<img src="https://img.icons8.com/color/30/null/npm.png" />
+<img src="https://img.icons8.com/color/30/null/sass.png" />
+<img src="https://img.icons8.com/color/30/null/wordpress.png" />
+<img src="https://img.icons8.com/ultraviolet/30/null/api-settings.png"/>
  
 <br>
 </p>
