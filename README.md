@@ -29,9 +29,8 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/krzysztof-miłek-010694198/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/krzysztof-miłek-010694198/" height="20" width="35" /></a>
 <a href="https://fb.com/krzysztof.milek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="krzysztof.milek" height="20" width="35" /></a><br>
-<h3>AND .. IN FREE TIME</h3>
 <p align="left">
-<h6>I am a father, husband and ...Diver :-) <img src="https://user-images.githubusercontent.com/119612386/214439373-a628d76f-aa81-4bed-abf1-8af4a3ea4680.png" width="30px" height="30px"><img src="https://img.icons8.com/flat-round/64/null/ok-hand.png" width="30px" height="30px"/>
+<h6> And in free time..... I'am father, husband'and Diver :-) <img src="https://user-images.githubusercontent.com/119612386/214439373-a628d76f-aa81-4bed-abf1-8af4a3ea4680.png" width="30px" height="30px"><img src="https://img.icons8.com/flat-round/64/null/ok-hand.png" width="30px" height="30px"/>
 </h6>
 </p>
 <h4>GITHUB STATISTIC</h4>
