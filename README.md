@@ -1,5 +1,5 @@
 
-<h2>Hi, my name is Krzysztof Miłek, i'm a Full Stack MERN</h2>
+<h2>Hi, my name is Krzysztof Miłek,<br>I'm starting to develop in Full Stack MERN</h2>
 <h4>MY STACK</h4>
   
 <p>
