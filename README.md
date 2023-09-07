@@ -6,7 +6,6 @@
   <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/null/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png" height="38px" alt="MongoDB" />
 <img src="https://milek.wroclaw.pl/express.png" width="38px" height="38px">
 <img src="https://img.icons8.com/office/100/null/react.png" width="38px" height="38px" alt="REACT">
-<img src="https://user-images.githubusercontent.com/119612386/214430885-e2f2cabd-c578-4999-ab9f-2e50db1d2d82.png" width="40px" height="40px">
 <img src="https://user-images.githubusercontent.com/119612386/214434464-b6d565b5-e364-4a3b-abc0-889260b90648.png" width="40px" height="40px">
 <img src="https://user-images.githubusercontent.com/119612386/214434991-98ed5528-a192-4df6-a144-ee623d0c6822.png"  width="40px" height="40px">
 <img src="https://user-images.githubusercontent.com/119612386/214437242-4236cfcc-5d96-4d84-a34a-0e0507ddc8fb.png"  width="40px" height="40px">
