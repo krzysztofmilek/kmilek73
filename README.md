@@ -35,7 +35,7 @@
 </p>
 <h4>GITHUB STATISTIC</h4>
 
-<img src="https://github-readme-stats.vercel.app/api?username=kmilek73&show_icons=true&theme=dark" width="396px"  /> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kmilek73&layout=compact&theme=dark"  />
+<img src="https://github-readme-stats.vercel.app/api?username=krzysztofmilek&show_icons=true&theme=dark" width="396px"  /> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kmilek73&layout=compact&theme=dark"  />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kmilek73&theme=dark" width="750px"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=krzysztofmilek&theme=dark" width="750px"/>
 
