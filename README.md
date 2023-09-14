@@ -36,10 +36,5 @@ I am passionate about creating software that streamlines access to documents thr
 <h6> And in free time..... I'am father, husband and Diver :-) <img src="https://user-images.githubusercontent.com/119612386/214439373-a628d76f-aa81-4bed-abf1-8af4a3ea4680.png" width="30px" height="30px"><img src="https://img.icons8.com/flat-round/64/null/ok-hand.png" width="30px" height="30px"/>
 </h6>
 </p>
-<h4>GITHUB STATISTIC</h4>
 
-<img src="https://github-readme-stats.vercel.app/api?username=krzysztofmilek&show_icons=true&theme=dark" width="396px"  /> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=krzysztofmilek&layout=compact&theme=dark"  />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=krzysztofmilek&theme=dark" width="750px"/>
 
