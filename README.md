@@ -1,3 +1,6 @@
+<p>Hello, my name is Krzysztof Miłek.</p>
+<p>I'm a FullStack MERN Developer, engineer, photographer, and diver.</p>
+I am passionate about creating software that streamlines access to documents through digitalization and process standardization, as well as developing applications that simplify everyday tasks.
 
 
 <h4>MY STACK</h4>
